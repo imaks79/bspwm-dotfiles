@@ -17,7 +17,7 @@ BASE_PACKAGES = [
 ]
 
 DEV_PACKAGES = [
-    "code", "veracrypt", "keepassxc", "neovim", "tmux", "telegram-desktop", "obsidian",
+    "code", "veracrypt", "keepassxc", "neovim", "tmux", "telegram-desktop", "obsidian", "mc",
     "python-pip", "python-pywal", "bpython", "ipython", 
     "obs-studio", "kdenlive", "audacity", 
     "ghex", 
